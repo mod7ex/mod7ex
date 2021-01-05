@@ -32,8 +32,11 @@
 ## Connect With Me: 
 
 <a href="https://twitter.com/CadiMourad" target="_blank"><img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/twitter/twitter.png" style="max-width:100%;"></a>
+
 <a href="https://www.facebook.com/elcadimourad98/" target="_blank"><img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" style="max-width:100%;"></a>
+
 <a href="https://t.me/Justmemod" target="_blank"><img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png" style="max-width:100%;"></a>
+
 <a href="http://www.linkedin.com/in/mourad-el-cadi" target="_blank"><img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="max-width:100%;"></a>
 
 <br>
