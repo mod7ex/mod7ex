@@ -1,13 +1,8 @@
 ### Hi there 👋
-
-<br><br>
-
+<br>
 ### I'm \<Mourad EL CADI./\> Full stack Web Developer:
-
 <br><br>
-
 ## My main Languages & Tools:
-
 <br><br><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="35px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="35px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="35px">
@@ -33,9 +28,7 @@
 <hr>
 
 ## Connect With Me:
-
-<br><br>
-
+<br>
 <a href="https://twitter.com/CadiMourad" target="_blank">
     <img align="left" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/twitter/twitter.png" style="max-width:100%;"></a>
 
