@@ -55,7 +55,7 @@
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Modex987&theme=chartreuse-dark&show_icons=true&count_private=true)
 <br><br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Modex987&langs_count=8)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Modex987&langs_count=8)
 
 
 <!-- ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Modex987)
