@@ -1,13 +1,115 @@
-### Hi there 👋
+<div align="center" width="50">
+
+<img src="https://github.com/DrCybernotix/DrCybernotix/blob/main/welcome.gif" alt="Welcome!" />
+
+</div>
+
+<div align="center">
+
+<p>Hi</p>
+
+<p>👾 I’m <b>Mourad EL CADI</b> (MEVN stack).</p>
+
+<p>🔍 I’m interested in Algorithms, Puzzles, Data Visualisation & Processing,</p>
+
+<p>🌳 I’m currently learning blockchain (solidity).</p>
+
+<p>🦸‍♂️ I’m looking to collaborate on javascript related projects (node.Js, vue.Js).</p>
+
 <br>
 
-### I'm \<Mourad EL CADI./\> Full stack Web Developer:
+<p>Please feel free to clone/fork projects, raise issues and submit PRs if you see that something could be better.</p>
+
+<br>
+
+Ask me anything <a href="https://github.com/Modex987/Modex987/issues"><b>here</b></a>
+
+<br>
+
+or <a href="mouradface1998@gmail.com"><b>email</b></a> me
+
+<i>Happy Coding!</i> 😊
+
+---
+
+<div align="center">
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=Modex987&theme=chartreuse-dark&show_icons=true&count_private=true)
 
 <br><br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Modex987&theme=chartreuse-dark&show_icons=true&langs_count=8)
+
+<br><br>
+
+[![HitCount](http://hits.dwyl.com/modex987/modex987.svg?style=flat-square)](http://hits.dwyl.com/modex987/modex987)
+
+<br><br>
+
+<i>Pinning that pun? </i>
+<br>
+<a href=""><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
+
+---
+
+<i>📫 How to reach me:</i><br>
+
+<div>
+
+<a target="_blank" href="#">🇱​🇮​🇳​🇰​🇪​🇩​🇮​🇳​</a> ●
+
+<a target="_blank" href="https://www.instagram.com/memod987/">🇮​🇳​🇸​🇹​🇦​🇬​🇷​🇦​🇲​</a> ●
+
+<a target="_blank" href="https://web.facebook.com/mourad.elcadi/">🇫​🇦​🇨​🇪​🇧​🇴​🇴​🇰​</a> ●
+
+<a target="_blank" href="t.me/mouradelcadi">🇹 🇪 🇱 🇪 🇬​🇷​🇦​🇲</a> ●
+
+<!--
+
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+
+<a href="https://www.instagram.com/memod987/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+
+<a href="https://web.facebook.com/mourad.elcadi/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
+
+<a href="t.me/mouradelcadi" target="_blank"><img src="https://img.shields.io/badge/Telegram-%231877F2.svg?&style=flat-square&logo=telegram&logoColor=white" alt="Telegram"></a>
+
+-->
+
+<!--
+
+## Connect With Me:
+<br>
+<a href="https://twitter.com/CadiMourad" target="_blank">
+    <img align="left" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/twitter/twitter.png" style="max-width:100%;"></a>
+
+<a href="https://www.facebook.com/elcadimourad98/" target="_blank">
+    <img align="left" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" style="max-width:100%;"></a>
+
+<a href="https://t.me/Justmemod" target="_blank">
+    <img align="left" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png" style="max-width:100%;"></a>
+
+<a href="http://www.linkedin.com/in/mourad-el-cadi" target="_blank">
+    <img align="left" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="max-width:100%;"></a>
+
+
+-->
+
+</div>
+
+</div>
+
+---
+
+<p>
+  <a href="#"><img src="https://activity-graph.herokuapp.com/graph?username=modex987&bg_color=000&color=39FF14&line=39FF14&point=fff"></a>
+</p>
+
+---
+
+<br><br><br>
 
 ## My main Languages & Tools:
-
-<br><br>
 
 <div>
     <span><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="35px"></span>
@@ -32,33 +134,17 @@
     <span><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" width="35px"></span>
 </div>
 
-<br><br>
-<hr>
+<!--
 
-## Connect With Me:
-<br>
-<a href="https://twitter.com/CadiMourad" target="_blank">
-    <img align="left" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/twitter/twitter.png" style="max-width:100%;"></a>
+Here are some ideas to get you started:
 
-<a href="https://www.facebook.com/elcadimourad98/" target="_blank">
-    <img align="left" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" style="max-width:100%;"></a>
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
 
-<a href="https://t.me/Justmemod" target="_blank">
-    <img align="left" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png" style="max-width:100%;"></a>
-
-<a href="http://www.linkedin.com/in/mourad-el-cadi" target="_blank">
-    <img align="left" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="max-width:100%;"></a>
-
-<br><br>
-
-<hr>
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=Modex987&theme=chartreuse-dark&show_icons=true&count_private=true)
-<br><br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Modex987&langs_count=8)
-
-
-<!-- ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Modex987)
-
-
-
+-->
