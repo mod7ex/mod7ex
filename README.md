@@ -26,7 +26,7 @@ Ask me anything <a href="https://github.com/Modex987/Modex987/issues"><b>here</b
 
 <br>
 
-or <a href="mouradface1998@gmail.com"><b>email</b></a> me
+or <a href="mouradelcadi98@gmail.com"><b>email</b></a> me
 
 <i>Happy Coding!</i> 😊
 
