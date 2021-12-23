@@ -10,7 +10,7 @@
 
 <p>👾 I’m <b>Mourad EL CADI</b> (MEVN stack).</p>
 
-<p>🔍 I’m interested in Algorithms, Puzzles, Data Visualisation & Processing,</p>
+<p>🔍 I’m interested in Algorithms, Puzzles, Data Visualisation & Javascript,</p>
 
 <p>🌳 I’m currently learning blockchain (solidity).</p>
 
@@ -52,7 +52,9 @@ or <a href="mouradface1998@gmail.com"><b>email</b></a> me
 
 ---
 
-<i>📫 How to reach me:</i><br>
+### 📫 How to reach me:
+
+<br>
 
 <div>
 
@@ -107,7 +109,7 @@ or <a href="mouradface1998@gmail.com"><b>email</b></a> me
 
 ---
 
-<br><br><br>
+<br><br>
 
 ## My main Languages & Tools:
 
