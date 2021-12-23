@@ -1,6 +1,6 @@
 <div align="center" width="50">
 
-<img src="https://github.com/DrCybernotix/DrCybernotix/blob/main/welcome.gif" alt="Welcome!" />
+<img src="https://github.com/Modex987/Modex987/blob/main/welcome.gif" alt="Welcome!" />
 
 </div>
 
