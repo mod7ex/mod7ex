@@ -62,7 +62,7 @@ or <a href="mouradelcadi98@gmail.com"><b>email</b></a> me
 
 <a target="_blank" href="https://www.instagram.com/mourad.ex.98/">🇮​🇳​🇸​🇹​🇦​🇬​🇷​🇦​🇲​</a> ●
 
-<a target="_blank" href="https://web.facebook.com/modex98/">🇫​🇦​🇨​🇪​🇧​🇴​🇴​🇰​</a> ●
+<a target="_blank" href="https://web.facebook.com/modex987/">🇫​🇦​🇨​🇪​🇧​🇴​🇴​🇰​</a> ●
 
 <a target="_blank" href="https://t.me/mouradelcadi">🇹 🇪 🇱 🇪 🇬​🇷​🇦​🇲</a> ●
 
