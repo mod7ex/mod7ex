@@ -1,6 +1,6 @@
 <div align="center" width="50">
 
-<img src="https://github.com/Modex987/Modex987/blob/main/welcome.gif" alt="Welcome!" />
+<img src="https://github.com/modex98/modex98/blob/main/welcome.gif" alt="Welcome!" />
 
 </div>
 
@@ -22,7 +22,7 @@
 
 <br>
 
-Ask me anything <a href="https://github.com/Modex987/Modex987/issues"><b>here</b></a>
+Ask me anything <a href="https://github.com/modex98/modex98/issues"><b>here</b></a>
 
 <br>
 
@@ -34,15 +34,15 @@ or <a href="mouradelcadi98@gmail.com"><b>email</b></a> me
 
 <div align="center">
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=Modex987&theme=chartreuse-dark&show_icons=true&count_private=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=modex98&theme=chartreuse-dark&show_icons=true&count_private=true)
 
 <br><br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Modex987&theme=chartreuse-dark&show_icons=true&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=modex98&theme=chartreuse-dark&show_icons=true&langs_count=8)
 
 <br><br>
 
-[![HitCount](http://hits.dwyl.com/modex987/modex987.svg?style=flat-square)](http://hits.dwyl.com/modex987/modex987)
+[![HitCount](http://hits.dwyl.com/modex98/modex98.svg?style=flat-square)](http://hits.dwyl.com/modex98/modex98)
 
 <br><br>
 
@@ -60,9 +60,9 @@ or <a href="mouradelcadi98@gmail.com"><b>email</b></a> me
 
 <a target="_blank" href="#">🇱​🇮​🇳​🇰​🇪​🇩​🇮​🇳​</a> ●
 
-<a target="_blank" href="https://www.instagram.com/memod987/">🇮​🇳​🇸​🇹​🇦​🇬​🇷​🇦​🇲​</a> ●
+<a target="_blank" href="https://www.instagram.com/mourad.ex.98/">🇮​🇳​🇸​🇹​🇦​🇬​🇷​🇦​🇲​</a> ●
 
-<a target="_blank" href="https://web.facebook.com/mourad.elcadi/">🇫​🇦​🇨​🇪​🇧​🇴​🇴​🇰​</a> ●
+<a target="_blank" href="https://web.facebook.com/modex98/">🇫​🇦​🇨​🇪​🇧​🇴​🇴​🇰​</a> ●
 
 <a target="_blank" href="t.me/mouradelcadi">🇹 🇪 🇱 🇪 🇬​🇷​🇦​🇲</a> ●
 
@@ -104,7 +104,7 @@ or <a href="mouradelcadi98@gmail.com"><b>email</b></a> me
 ---
 
 <p>
-  <a href="#"><img src="https://activity-graph.herokuapp.com/graph?username=modex987&bg_color=000&color=39FF14&line=39FF14&point=fff"></a>
+  <a href="#"><img src="https://activity-graph.herokuapp.com/graph?username=modex98&bg_color=000&color=39FF14&line=39FF14&point=fff"></a>
 </p>
 
 ---
