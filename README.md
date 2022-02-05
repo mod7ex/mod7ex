@@ -14,7 +14,7 @@
 
 <p>🌳 I’m currently learning blockchain (solidity).</p>
 
-<p>🦸‍♂️ I’m looking to collaborate on javascript related projects (node.Js, vue.Js).</p>
+<p>🦸‍♂️ I’m looking to collaborate on javascript related projects (javascript, node.Js, vue.Js).</p>
 
 <br>
 
@@ -64,38 +64,7 @@ or <a href="mouradelcadi98@gmail.com"><b>email</b></a> me
 
 <a target="_blank" href="https://web.facebook.com/modex98/">🇫​🇦​🇨​🇪​🇧​🇴​🇴​🇰​</a> ●
 
-<a target="_blank" href="t.me/mouradelcadi">🇹 🇪 🇱 🇪 🇬​🇷​🇦​🇲</a> ●
-
-<!--
-
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-
-<a href="https://www.instagram.com/memod987/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-
-<a href="https://web.facebook.com/mourad.elcadi/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
-
-<a href="t.me/mouradelcadi" target="_blank"><img src="https://img.shields.io/badge/Telegram-%231877F2.svg?&style=flat-square&logo=telegram&logoColor=white" alt="Telegram"></a>
-
--->
-
-<!--
-
-## Connect With Me:
-<br>
-<a href="https://twitter.com/CadiMourad" target="_blank">
-    <img align="left" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/twitter/twitter.png" style="max-width:100%;"></a>
-
-<a href="https://www.facebook.com/elcadimourad98/" target="_blank">
-    <img align="left" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" style="max-width:100%;"></a>
-
-<a href="https://t.me/Justmemod" target="_blank">
-    <img align="left" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png" style="max-width:100%;"></a>
-
-<a href="http://www.linkedin.com/in/mourad-el-cadi" target="_blank">
-    <img align="left" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="max-width:100%;"></a>
-
-
--->
+<a target="_blank" href="https://t.me/mouradelcadi">🇹 🇪 🇱 🇪 🇬​🇷​🇦​🇲</a> ●
 
 </div>
 
@@ -117,6 +86,7 @@ or <a href="mouradelcadi98@gmail.com"><b>email</b></a> me
     <span><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="35px"></span>
     <span><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="35px"></span>
     <span><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="35px"></span>
+      <span><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" width="35px"></span>
     <span><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" width="35px"></span>
     <span><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png" width="35px"></span>
     <span><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" width="35px"></span>
