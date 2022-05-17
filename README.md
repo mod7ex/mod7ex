@@ -64,7 +64,7 @@ or <a href="mouradelcadi98@gmail.com"><b>email</b></a> me
 
 <br />
 
-<a target="_blank" href="#">● 🇱​🇮​🇳​🇰​🇪​🇩​🇮​🇳​</a>
+<a target="_blank" href="https://www.linkedin.com/in/modex98/">● 🇱​🇮​🇳​🇰​🇪​🇩​🇮​🇳​</a>
 
 <a target="_blank" href="https://www.instagram.com/mouradelcadi">●🇮​🇳​🇸​🇹​🇦​🇬​🇷​🇦​🇲​</a>
 
