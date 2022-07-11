@@ -13,7 +13,7 @@
 
 <p>🔍 I’m interested in Algorithms, Puzzles, Data Visualisation & Javascript[Ts],</p>
 
-<p>🌳 I’m currently C#.</p>
+<p>🌳 I’m currently learning C#.</p>
 
 <p>🦸‍♂️ I’m looking to collaborate on javascript, typescript related projects (javascript, typescript, node.Js, vue.Js).</p>
 
