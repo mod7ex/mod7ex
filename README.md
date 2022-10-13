@@ -110,6 +110,13 @@ or <a href="mouradelcadi98@gmail.com"><b>email</b></a> me
 <span><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" width="35px" /></span>
 <span><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" width="35px" /></span>
 
+---
+    
+## while here take a look at this nice Gif and explore how the event loop works
+    
+<div align="center" width="50">
+<img src="https://github.com/modex98/modex98/blob/main/42eatw03fcha0e1qcrf0.gif" alt="event loop!" />
+</div>
 <!--
 Here are some ideas to get you started:
 
@@ -123,9 +130,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 </div>
-    
-    <div align="center" width="50">
-    
-<img src="https://github.com/modex98/modex98/blob/main/42eatw03fcha0e1qcrf0.gif" alt="event loop!" />
 
-</div>
