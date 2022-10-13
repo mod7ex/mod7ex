@@ -123,3 +123,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 </div>
+    
+    <div align="center" width="50">
+    
+<img src="https://github.com/modex98/modex98/blob/main/42eatw03fcha0e1qcrf0.gif" alt="event loop!" />
+
+</div>
