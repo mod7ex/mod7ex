@@ -91,6 +91,8 @@ or <a href="mouradelcadi98@gmail.com"><b>email</b></a> me
 <span><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width="35px" /></span>
 <span><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" width="35px" /></span>
 <span><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" width="35px" /></span>
+<span><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" width="35px" /></span>
+<span><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png" width="35px" /></span>
 
 <!-- <span><img src="https://camo.githubusercontent.com/65b109b4158db0a81e6d9920b9f0d6bf0617ba825e9ce3189b4353ea975b4069/68747470733a2f2f6c61726176656c2e636f6d2f696d672f6c6f676f6d61726b2e6d696e2e737667" width="35px"></span> -->
 <!-- <span><img src="https://camo.githubusercontent.com/680e18c1b990fe3ad0fdea205821e128dda61434b260aa292982c958388b7888/68747470733a2f2f7777772e696465656d617469632e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f30352f6c6f676f2d5675652d4a532e706e67" width="35px"></span> -->
