@@ -9,13 +9,13 @@
 
 <p>Hi</p>
 
-<p>👾 I’m <b>Mourad EL CADI</b> (MEVN stack).</p>
+<p>👾 I’m <b>Mourad EL CADI</b> (Front-End developer).</p>
 
 <p>🔍 I’m interested in Algorithms, Puzzles, Data Visualisation & Javascript[Ts],</p>
 
-<p>🌳 I’m currently learning C#.</p>
+<p>🌳 I’m currently digging deeper in FrontEnd thechnologies (<small>interested in Web3 in the future</small>)</p>
 
-<p>🦸‍♂️ I’m looking to collaborate on javascript, typescript related projects (javascript, typescript, node.Js, vue.Js).</p>
+<p>🦸‍♂️ I’m looking to collaborate on javascript, typescript related projects (javascript, typescript, node.Js, React.Js & vue.Js).</p>
 
 <br />
 
@@ -23,11 +23,11 @@
 
 <br />
 
-Ask me anything <a href="https://github.com/modex98/modex98/issues"><b>here</b></a>
+> Ask me anything <a href="https://github.com/modex98/modex98/issues"><b>here</b></a>
 
 <br />
 
-or <a href="mouradelcadi98@gmail.com"><b>email</b></a> me
+> or <a href="mouradelcadi98@gmail.com"><b>email</b></a> me
 
 <i>Happy Coding!</i> 😊
 
@@ -116,7 +116,7 @@ or <a href="mouradelcadi98@gmail.com"><b>email</b></a> me
 
 ---
     
-## while here take a look at this nice Gif and explore how the event loop works
+## while here take a look at this nice Gif and have a brief overview about the famous event loop
     
 <div align="center" width="50">
 <img src="https://github.com/modex98/modex98/blob/main/42eatw03fcha0e1qcrf0.gif" alt="event loop!" />
@@ -134,4 +134,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 </div>
-
