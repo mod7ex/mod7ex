@@ -3,7 +3,7 @@
 
 <p>Hi</p>
 
-<p>👾 I’m <b>Mourad EL CADI</b> (Ruster & Front-End developer).</p>
+<p>👾 I’m <b>Mourad EL CADI</b> (Ruster & Front-End developer), My code is DRY and SOLID.</p>
 
 <p>🔍 I’m interested in Algorithms, Puzzles, Data Visualisation & Javascript[Ts],</p>
 
