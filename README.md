@@ -7,7 +7,7 @@
 
 <p>🔍 I’m interested in Algorithms, Puzzles, Data Visualisation & Javascript[Ts],</p>
 
-<p>🌳 I’m currently digging deeper in FrontEnd thechnologies (<small>interested in Web3 in the future</small>)</p>
+<p>🌳 I’m currently digging deeper in FrontEnd thechnologies (<small>Learning WEB3 solana using rust</small>)</p>
 
 <p>🦸‍♂️ I’m looking to collaborate on javascript, typescript related projects (javascript, typescript, node.Js, React.Js & vue.Js).</p>
 
