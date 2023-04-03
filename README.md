@@ -1,9 +1,9 @@
 <div align="center" width="50">
-<img src="https://github.com/modex98/modex98/blob/main/welcome.gif" alt="Welcome!" />
+<img src="https://github.com/mod7ex/mod7ex/blob/main/welcome.gif" alt="Welcome!" />
 
 <p>👾 Hi i’m <b>Mourad EL CADI</b> (Ruster & Front-End developer), My code is DRY and SOLID.</p>
 
-> Raise an [issue](https://github.com/modex98/modex98/issues) or Ask me anything on [telegram](https://t.me/mouradelcadi), [linkedin](https://www.linkedin.com/in/modex98) or [e-mail](mailto:mouradelcadi98@gmail.com) me
+> Raise an [issue](https://github.com/mod7ex/mod7ex/issues) or Ask me anything on [telegram](https://t.me/mouradelcadi), [linkedin](https://www.linkedin.com/in/mod7ex) or [e-mail](mailto:mouradelcadi98@gmail.com) me
 
 <br />
 
@@ -11,11 +11,11 @@
 
 ---
 
-[![HitCount](http://hits.dwyl.com/modex98/modex98.svg?style=flat-square)](http://hits.dwyl.com/modex98/modex98)
+[![HitCount](http://hits.dwyl.com/mod7ex/mod7ex.svg?style=flat-square)](http://hits.dwyl.com/mod7ex/mod7ex)
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=modex98&theme=chartreuse-dark&show_icons=true&count_private=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=mod7ex&theme=chartreuse-dark&show_icons=true&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=modex98&theme=chartreuse-dark&show_icons=true&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mod7ex&theme=chartreuse-dark&show_icons=true&langs_count=8)
 
 <i>Pinning that pun?</i>
 <br>
@@ -23,7 +23,8 @@
 <a href=""><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes" /></a>
 
 ---
-<!-- 
+
+<!--
 ## My main languages :
 
 <span><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="35px" /></span>
@@ -67,9 +68,14 @@
 
 ---
 -->
+
+<!--
+
 ## while here take a look at this nice Gif and have a brief overview on how the famous event loop works
 
 <br /><br />
-<img src="https://github.com/modex98/modex98/blob/main/42eatw03fcha0e1qcrf0.gif" alt="event loop!" />
+<img src="https://github.com/mod7ex/mod7ex/blob/main/42eatw03fcha0e1qcrf0.gif" alt="event loop!" />
+
+-->
 
 </div>
