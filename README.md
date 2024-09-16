@@ -1,7 +1,7 @@
 <div align="center" width="50">
 <img src="https://github.com/mod7ex/mod7ex/blob/main/welcome.gif" alt="Welcome!" />
 
-<p>👾 Hi i’m <b>Mourad EL CADI</b> (Ruster & Front-End developer), I only write DRY and SOLID.</p>
+<p>👾 Hi i’m <b>Mourad Ec</b> (Ruster & Front-End developer), I only write DRY and SOLID.</p>
 
 > Raise an [issue](https://github.com/mod7ex/mod7ex/issues) or Ask me anything on [telegram](https://t.me/mouradelcadi), [linkedin](https://www.linkedin.com/in/mod7ex) or [e-mail](mailto:xxx@gmail.com) me
 
