@@ -11,6 +11,11 @@
 
 ---
 
+# Profile Views
+![Philsv's Profile Hit](https://komarev.com/mod7ex/?username=mod7ex&color=blue)
+
+---
+
 <i>Pinning that pun?</i>
 <br>
 <br>
