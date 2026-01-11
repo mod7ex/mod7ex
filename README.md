@@ -12,7 +12,7 @@
 ---
 
 # Profile Views
-![Mourad's Profile Hit](https://komarev.com/mod7ex/?username=mod7ex&color=blue)
+![Mourad's Profile Hit](https://komarev.com/ghpvc/?username=mod7ex&color=blue)
 
 ---
 
