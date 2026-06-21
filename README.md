@@ -3,7 +3,7 @@
 
 <p>👾 Hi i’m <b>Mourad</b> (Ruster & Front-End developer & Humble Data Scientist/Algo-Trader), I only write DRY and SOLID code.</p>
 
-> Raise an [issue](https://github.com/mod7ex/mod7ex/issues) or Ask me anything on [telegram](https://t.me/mouradelcadi), [linkedin](https://www.linkedin.com/in/mod7ex)
+> Raise an [issue](https://github.com/mod7ex/mod7ex/issues) or Ask me anything on [telegram](https://t.me/mod7ex), [linkedin](https://www.linkedin.com/in/mod7ex)
 
 <br />
 
